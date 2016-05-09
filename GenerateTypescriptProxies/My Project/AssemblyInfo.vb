@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("GenerateTypescriptProxies")>
+<Assembly: AssemblyTitle("tsproxygenerator")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("GenerateTypescriptProxies")>
+<Assembly: AssemblyProduct("tsproxygenerator")>
 <Assembly: AssemblyCopyright("Copyright ©  2016")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("57ba538d-6956-47c1-92e1-fca541ee3e9f")>
+<Assembly: Guid("a628c544-c05c-45a1-af7b-c9a0183fb19b")>
 
 ' Version information for an assembly consists of the following four values:
 '

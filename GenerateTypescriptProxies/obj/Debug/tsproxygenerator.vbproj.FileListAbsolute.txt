@@ -1,0 +1,14 @@
+C:\Users\Petru_000\AppData\Local\Temporary Projects\tsproxygenerator\bin\Debug\tsproxygenerator.exe.config
+C:\Hackathon\github\Tools\GenerateTypeScriptProxies\GenerateTypescriptProxies\tsproxygenerator\bin\Debug\tsproxygenerator.exe.config
+C:\Hackathon\github\Tools\GenerateTypeScriptProxies\GenerateTypescriptProxies\bin\Debug\tsproxygenerator.exe.config
+C:\Hackathon\github\Tools\GenerateTypeScriptProxies\GenerateTypescriptProxies\obj\Debug\tsproxygenerator.vbprojResolveAssemblyReference.cache
+C:\Hackathon\github\Tools\GenerateTypeScriptProxies\GenerateTypescriptProxies\obj\Debug\tsproxygenerator.Resources.resources
+C:\Hackathon\github\Tools\GenerateTypeScriptProxies\GenerateTypescriptProxies\obj\Debug\tsproxygenerator.vbproj.GenerateResource.Cache
+C:\Hackathon\github\Tools\GenerateTypeScriptProxies\GenerateTypescriptProxies\obj\Debug\tsproxygenerator.xml
+C:\Hackathon\github\Tools\GenerateTypeScriptProxies\GenerateTypescriptProxies\bin\Debug\tsproxygenerator.exe
+C:\Hackathon\github\Tools\GenerateTypeScriptProxies\GenerateTypescriptProxies\bin\Debug\tsproxygenerator.pdb
+C:\Hackathon\github\Tools\GenerateTypeScriptProxies\GenerateTypescriptProxies\bin\Debug\tsproxygenerator.xml
+C:\Hackathon\github\Tools\GenerateTypeScriptProxies\GenerateTypescriptProxies\bin\Debug\Newtonsoft.Json.dll
+C:\Hackathon\github\Tools\GenerateTypeScriptProxies\GenerateTypescriptProxies\bin\Debug\Newtonsoft.Json.xml
+C:\Hackathon\github\Tools\GenerateTypeScriptProxies\GenerateTypescriptProxies\obj\Debug\tsproxygenerator.exe
+C:\Hackathon\github\Tools\GenerateTypeScriptProxies\GenerateTypescriptProxies\obj\Debug\tsproxygenerator.pdb

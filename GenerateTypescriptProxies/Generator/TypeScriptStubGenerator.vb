@@ -13,6 +13,7 @@ Public Class TypeScriptStubGenerator
 
     Private Property MetadataUrl As String
     Private Property OutputFolder As String
+    Public Property Messages As New List(Of String)
 
 #End Region
 
@@ -148,7 +149,7 @@ Public Class TypeScriptStubGenerator
             dataString = System.Text.Encoding.UTF8.GetString(data)
 
         Catch ex As Exception
-            MessageBox.Show("Unable to obtain meta data. Error: " & ex.Message)
+            Me.Messages.Add("Unable to obtain meta data. Error: " & ex.Message)
             Return Nothing
         End Try
 
@@ -156,7 +157,7 @@ Public Class TypeScriptStubGenerator
         Try
             breezeMetadata = JsonConvert.DeserializeObject(Of BreezeMetadata)(dataString)
         Catch ex As Exception
-            MessageBox.Show("Unable to obtain meta data, invalid json. Error: " & ex.Message)
+            Me.Messages.Add("Unable to obtain meta data, invalid json. Error: " & ex.Message)
             Return Nothing
         End Try
 

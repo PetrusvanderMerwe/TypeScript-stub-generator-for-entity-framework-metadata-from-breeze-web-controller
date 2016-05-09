@@ -2,21 +2,21 @@
 <doc>
 <assembly>
 <name>
-GenerateTypescriptProxies
+tsproxygenerator
 </name>
 </assembly>
 <members>
-<member name="T:GenerateTypescriptProxies.My.Resources.Resources">
+<member name="T:tsproxygenerator.My.Resources.Resources">
 <summary>
   A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
 </member>
-<member name="P:GenerateTypescriptProxies.My.Resources.Resources.ResourceManager">
+<member name="P:tsproxygenerator.My.Resources.Resources.ResourceManager">
 <summary>
   Returns the cached ResourceManager instance used by this class.
 </summary>
 </member>
-<member name="P:GenerateTypescriptProxies.My.Resources.Resources.Culture">
+<member name="P:tsproxygenerator.My.Resources.Resources.Culture">
 <summary>
   Overrides the current thread's CurrentUICulture property for all
   resource lookups using this strongly typed resource class.

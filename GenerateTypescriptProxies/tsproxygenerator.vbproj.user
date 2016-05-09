@@ -3,4 +3,7 @@
   <PropertyGroup>
     <ProjectView>ShowAllFiles</ProjectView>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>"http://localhost/AgentSystem/breeze/AgentSystem/Metadata" "C:\temp\TsProxies"</StartArguments>
+  </PropertyGroup>
 </Project>
